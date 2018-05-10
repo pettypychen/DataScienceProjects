@@ -1,5 +1,5 @@
 # Data Science Projects (Python)
-These will be my portfolio for learning data science.
+This will be my portfolio for learning python.
 
 ## Project 1: Titanic
 The Kaggle Titanic Challenge provides the dataset for analysis on what sorts of people were likely to survive. 
