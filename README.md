@@ -22,3 +22,6 @@ This project used Python to scrape information from the web.
 
 ## Project 5: SQL
 This project used a combination of SQLite,Python,pandas, and SQLAlchemy to run SQL queries. 
+
+## Project 6: Salary
+This project used Kaggle SF Salaries data for dataframe manipulations and basic analysis.  
